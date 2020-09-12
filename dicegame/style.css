@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+}
+
+.flexi{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h1{
+    font-size: 5rem;
+}
+
+p{
+    font-size: 3rem;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+}
